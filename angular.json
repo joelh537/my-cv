@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-cv"
+    }
+  },
+  "defaultProject": "my-cv",
+  "cli": {
+    "analytics": false
+  }
 }
